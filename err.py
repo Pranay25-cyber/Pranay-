@@ -1,3 +1,3 @@
 a=20 
-b=pranay
+b=pranaya
 print(A+b)
