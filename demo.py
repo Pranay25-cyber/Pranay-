@@ -1,3 +1,3 @@
 a=int(input())
-for i in b
-print(i)
+for i in b:
+print("i")
