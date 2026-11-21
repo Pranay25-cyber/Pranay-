@@ -1,3 +1,2 @@
-a=20 
-b=pranay
-print(A+b)
+a=int(input())
+print(a)
